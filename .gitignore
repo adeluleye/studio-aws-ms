@@ -1,7 +1,9 @@
-src
 src/main/resources
 src/test/java
 src/test/resources
 JRE System Library
 Maven Dependencies
 target
+.settings
+.classpath
+.project
